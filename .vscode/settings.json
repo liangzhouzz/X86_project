@@ -59,6 +59,7 @@
   "files.associations": {
     "types.h": "c",
     "idt.h": "c",
-    "timer.h": "c"
+    "timer.h": "c",
+    "multiboot.h": "c"
   }
 }
