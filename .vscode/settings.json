@@ -60,6 +60,17 @@
     "types.h": "c",
     "idt.h": "c",
     "timer.h": "c",
-    "multiboot.h": "c"
-  }
+    "multiboot.h": "c",
+    "array": "c",
+    "chrono": "c",
+    "compare": "c",
+    "executor": "c",
+    "functional": "c",
+    "ratio": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "*.txx": "c"
+  },
+  "C_Cpp.dimInactiveRegions": false
 }
