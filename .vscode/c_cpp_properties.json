@@ -4,7 +4,7 @@
             "name": "linux-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/chapter/chapt11/include"
+                "${workspaceFolder}/chapter/chapt12/include"
             ],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "${default}",
